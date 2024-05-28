@@ -1,0 +1,8 @@
+---
+gin:
+  port: 8080
+
+load_generator:
+  port: 8080
+  host: localhost
+  path: /api/batcher

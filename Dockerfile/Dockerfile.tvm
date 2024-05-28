@@ -1,0 +1,14 @@
+FROM tlcpack/ci-gpu:v0.87
+
+COPY scripts/apt-install-and-clear.sh /usr/local/bin/apt-install-and-clear
+
+# Build TVM
+COPY scripts/install_reef_tvm_gpu.sh /install/install_reef_tvm_gpu.sh
+RUN bash /install/install_reef_tvm_gpu.sh
+
+# Environment variables
+ENV PYTHONPATH=/usr/tvm/python:/usr/tvm/vta/python:${PYTHONPATH}
+ENV TVM_HOME=/usr/tvm
+ENV PATH=/usr/local/nvidia/bin:${PATH}
+ENV PATH=/usr/local/cuda/bin:${PATH}
+ENV LD_LIBRARY_PATH=/usr/local/cuda/lib64:/usr/local/nvidia/lib64:${LD_LIBRARY_PATH}

@@ -1,0 +1,975 @@
+{
+    "storage": [
+        {
+            "name": "data",
+            "size": 4816896,
+            "stype": "float32"
+        },
+        {
+            "name": "p0",
+            "size": 3,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 4816896,
+            "stype": "float32"
+        },
+        {
+            "name": "p1",
+            "size": 9408,
+            "stype": "float32"
+        },
+        {
+            "name": "p2",
+            "size": 64,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 25690112,
+            "stype": "float32"
+        },
+        {
+            "name": "p3",
+            "size": 64,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 6422528,
+            "stype": "float32"
+        },
+        {
+            "name": "p4",
+            "size": 36864,
+            "stype": "float32"
+        },
+        {
+            "name": "p5",
+            "size": 64,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 6422528,
+            "stype": "float32"
+        },
+        {
+            "name": "p6",
+            "size": 36864,
+            "stype": "float32"
+        },
+        {
+            "name": "p7",
+            "size": 4096,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 6422528,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 6422528,
+            "stype": "float32"
+        },
+        {
+            "name": "p8",
+            "size": 64,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 6422528,
+            "stype": "float32"
+        },
+        {
+            "name": "p9",
+            "size": 36864,
+            "stype": "float32"
+        },
+        {
+            "name": "p10",
+            "size": 64,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 6422528,
+            "stype": "float32"
+        },
+        {
+            "name": "p11",
+            "size": 36864,
+            "stype": "float32"
+        },
+        {
+            "name": "p12",
+            "size": 64,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 6422528,
+            "stype": "float32"
+        },
+        {
+            "name": "p13",
+            "size": 73728,
+            "stype": "float32"
+        },
+        {
+            "name": "p14",
+            "size": 128,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 3211264,
+            "stype": "float32"
+        },
+        {
+            "name": "p15",
+            "size": 147456,
+            "stype": "float32"
+        },
+        {
+            "name": "p16",
+            "size": 8192,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 3211264,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 3211264,
+            "stype": "float32"
+        },
+        {
+            "name": "p17",
+            "size": 128,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 3211264,
+            "stype": "float32"
+        },
+        {
+            "name": "p18",
+            "size": 147456,
+            "stype": "float32"
+        },
+        {
+            "name": "p19",
+            "size": 128,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 3211264,
+            "stype": "float32"
+        },
+        {
+            "name": "p20",
+            "size": 147456,
+            "stype": "float32"
+        },
+        {
+            "name": "p21",
+            "size": 128,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 3211264,
+            "stype": "float32"
+        },
+        {
+            "name": "p22",
+            "size": 294912,
+            "stype": "float32"
+        },
+        {
+            "name": "p23",
+            "size": 256,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 1605632,
+            "stype": "float32"
+        },
+        {
+            "name": "p24",
+            "size": 589824,
+            "stype": "float32"
+        },
+        {
+            "name": "p25",
+            "size": 32768,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 1605632,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 1605632,
+            "stype": "float32"
+        },
+        {
+            "name": "p26",
+            "size": 256,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 1605632,
+            "stype": "float32"
+        },
+        {
+            "name": "p27",
+            "size": 589824,
+            "stype": "float32"
+        },
+        {
+            "name": "p28",
+            "size": 256,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 1605632,
+            "stype": "float32"
+        },
+        {
+            "name": "p29",
+            "size": 589824,
+            "stype": "float32"
+        },
+        {
+            "name": "p30",
+            "size": 256,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 1605632,
+            "stype": "float32"
+        },
+        {
+            "name": "p31",
+            "size": 1179648,
+            "stype": "float32"
+        },
+        {
+            "name": "p32",
+            "size": 512,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 802816,
+            "stype": "float32"
+        },
+        {
+            "name": "p33",
+            "size": 2359296,
+            "stype": "float32"
+        },
+        {
+            "name": "p34",
+            "size": 131072,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 802816,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 802816,
+            "stype": "float32"
+        },
+        {
+            "name": "p35",
+            "size": 512,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 802816,
+            "stype": "float32"
+        },
+        {
+            "name": "p36",
+            "size": 2359296,
+            "stype": "float32"
+        },
+        {
+            "name": "p37",
+            "size": 512,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 802816,
+            "stype": "float32"
+        },
+        {
+            "name": "p38",
+            "size": 2359296,
+            "stype": "float32"
+        },
+        {
+            "name": "p39",
+            "size": 512,
+            "stype": "float32"
+        },
+        {
+            "name": "p40",
+            "size": 512,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 802816,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 16384,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 16384,
+            "stype": "float32"
+        },
+        {
+            "name": "p41",
+            "size": 512000,
+            "stype": "float32"
+        },
+        {
+            "name": "p42",
+            "size": 1000,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 32000,
+            "stype": "float32"
+        },
+        {
+            "name": "output",
+            "size": 32000,
+            "stype": "float32"
+        }
+    ],
+    "kernels": [
+        {
+            "name": "fused_add_10_kernel0",
+            "launch_params": [
+                256,
+                1,
+                1,
+                1024,
+                1,
+                1
+            ],
+            "args": [
+                2,
+                0,
+                1
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_7_kernel0",
+            "launch_params": [
+                4,
+                28,
+                64,
+                28,
+                1,
+                8
+            ],
+            "args": [
+                2,
+                3,
+                5,
+                4
+            ]
+        },
+        {
+            "name": "fused_nn_max_pool2d_add_nn_relu_kernel0",
+            "launch_params": [
+                6272,
+                1,
+                1,
+                1024,
+                1,
+                1
+            ],
+            "args": [
+                5,
+                7,
+                6
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_6_kernel0",
+            "launch_params": [
+                1,
+                28,
+                32,
+                56,
+                1,
+                2
+            ],
+            "args": [
+                7,
+                8,
+                10,
+                9
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_kernel0",
+            "launch_params": [
+                1,
+                28,
+                32,
+                56,
+                1,
+                2
+            ],
+            "args": [
+                7,
+                12,
+                13
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_3_kernel0",
+            "launch_params": [
+                1,
+                28,
+                32,
+                56,
+                1,
+                2
+            ],
+            "args": [
+                10,
+                11,
+                14,
+                13
+            ]
+        },
+        {
+            "name": "fused_add_nn_relu_3_kernel0",
+            "launch_params": [
+                256,
+                1,
+                1,
+                1024,
+                1,
+                1
+            ],
+            "args": [
+                16,
+                14,
+                15
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_6_kernel0",
+            "launch_params": [
+                1,
+                28,
+                32,
+                56,
+                1,
+                2
+            ],
+            "args": [
+                16,
+                17,
+                19,
+                18
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_add_nn_relu_2_kernel0",
+            "launch_params": [
+                1,
+                28,
+                32,
+                56,
+                1,
+                2
+            ],
+            "args": [
+                19,
+                20,
+                22,
+                14,
+                21
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_5_kernel0",
+            "launch_params": [
+                1,
+                4,
+                64,
+                28,
+                1,
+                8
+            ],
+            "args": [
+                22,
+                23,
+                25,
+                24
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_1_kernel0",
+            "launch_params": [
+                1,
+                4,
+                64,
+                28,
+                1,
+                8
+            ],
+            "args": [
+                22,
+                27,
+                28
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_2_kernel0",
+            "launch_params": [
+                1,
+                7,
+                64,
+                14,
+                1,
+                8
+            ],
+            "args": [
+                25,
+                26,
+                29,
+                28
+            ]
+        },
+        {
+            "name": "fused_add_nn_relu_2_kernel0",
+            "launch_params": [
+                256,
+                1,
+                1,
+                1024,
+                1,
+                1
+            ],
+            "args": [
+                31,
+                29,
+                30
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_4_kernel0",
+            "launch_params": [
+                1,
+                7,
+                64,
+                14,
+                1,
+                8
+            ],
+            "args": [
+                31,
+                32,
+                34,
+                33
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_add_nn_relu_1_kernel0",
+            "launch_params": [
+                1,
+                7,
+                64,
+                14,
+                1,
+                8
+            ],
+            "args": [
+                34,
+                35,
+                37,
+                29,
+                36
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_3_kernel0",
+            "launch_params": [
+                1,
+                2,
+                128,
+                14,
+                1,
+                8
+            ],
+            "args": [
+                37,
+                38,
+                40,
+                39
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_2_kernel0",
+            "launch_params": [
+                1,
+                2,
+                128,
+                14,
+                1,
+                8
+            ],
+            "args": [
+                37,
+                42,
+                43
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_1_kernel0",
+            "launch_params": [
+                1,
+                2,
+                128,
+                14,
+                1,
+                8
+            ],
+            "args": [
+                40,
+                41,
+                44,
+                43
+            ]
+        },
+        {
+            "name": "fused_add_nn_relu_1_kernel0",
+            "launch_params": [
+                256,
+                1,
+                1,
+                1024,
+                1,
+                1
+            ],
+            "args": [
+                46,
+                44,
+                45
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_2_kernel0",
+            "launch_params": [
+                1,
+                2,
+                128,
+                14,
+                1,
+                8
+            ],
+            "args": [
+                46,
+                47,
+                49,
+                48
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_add_nn_relu_kernel0",
+            "launch_params": [
+                1,
+                2,
+                128,
+                14,
+                1,
+                8
+            ],
+            "args": [
+                49,
+                50,
+                52,
+                44,
+                51
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_1_kernel0",
+            "launch_params": [
+                1,
+                1,
+                256,
+                7,
+                1,
+                8
+            ],
+            "args": [
+                52,
+                53,
+                55,
+                54
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_3_kernel0",
+            "launch_params": [
+                1,
+                1,
+                256,
+                7,
+                1,
+                8
+            ],
+            "args": [
+                52,
+                57,
+                58
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_kernel0",
+            "launch_params": [
+                1,
+                1,
+                512,
+                7,
+                1,
+                4
+            ],
+            "args": [
+                55,
+                56,
+                59,
+                58
+            ]
+        },
+        {
+            "name": "fused_add_nn_relu_kernel0",
+            "launch_params": [
+                256,
+                1,
+                1,
+                1024,
+                1,
+                1
+            ],
+            "args": [
+                61,
+                59,
+                60
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_kernel0",
+            "launch_params": [
+                1,
+                1,
+                512,
+                7,
+                1,
+                4
+            ],
+            "args": [
+                61,
+                62,
+                64,
+                63
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_multiply_add_nn_relu_kernel0",
+            "launch_params": [
+                1,
+                1,
+                512,
+                7,
+                1,
+                4
+            ],
+            "args": [
+                64,
+                65,
+                68,
+                59,
+                66,
+                67
+            ]
+        },
+        {
+            "name": "fused_nn_global_avg_pool2d_kernel0",
+            "launch_params": [
+                64,
+                4,
+                1,
+                8,
+                8,
+                1
+            ],
+            "args": [
+                68,
+                69
+            ]
+        },
+        {
+            "name": "fused_nn_batch_flatten_kernel0",
+            "launch_params": [
+                16,
+                1,
+                1,
+                1024,
+                1,
+                1
+            ],
+            "args": [
+                70,
+                69
+            ]
+        },
+        {
+            "name": "fused_nn_dense_add_kernel0",
+            "launch_params": [
+                1000,
+                32,
+                1,
+                64,
+                1,
+                1
+            ],
+            "args": [
+                70,
+                71,
+                73,
+                72
+            ]
+        },
+        {
+            "name": "fused_nn_softmax_kernel0",
+            "launch_params": [
+                32,
+                1,
+                1,
+                32,
+                1,
+                1
+            ],
+            "args": [
+                73,
+                74
+            ]
+        }
+    ],
+    "args": [
+        0,
+        1,
+        3,
+        4,
+        6,
+        8,
+        9,
+        11,
+        12,
+        15,
+        17,
+        18,
+        20,
+        21,
+        23,
+        24,
+        26,
+        27,
+        30,
+        32,
+        33,
+        35,
+        36,
+        38,
+        39,
+        41,
+        42,
+        45,
+        47,
+        48,
+        50,
+        51,
+        53,
+        54,
+        56,
+        57,
+        60,
+        62,
+        63,
+        65,
+        66,
+        67,
+        71,
+        72
+    ],
+    "shared_memory": {
+        "fused_add_nn_relu_1_kernel0": 4,
+        "fused_nn_conv2d_add_1_kernel0": 5188,
+        "fused_nn_conv2d_add_nn_relu_7_kernel0": 5008,
+        "fused_nn_max_pool2d_add_nn_relu_kernel0": 4,
+        "fused_nn_conv2d_add_add_nn_relu_kernel0": 5188,
+        "fused_add_nn_relu_kernel0": 4,
+        "fused_nn_softmax_kernel0": 4,
+        "fused_add_nn_relu_2_kernel0": 4,
+        "fused_nn_conv2d_1_kernel0": 24932,
+        "fused_nn_conv2d_add_add_nn_relu_1_kernel0": 5636,
+        "fused_nn_conv2d_add_nn_relu_2_kernel0": 5188,
+        "fused_nn_dense_add_kernel0": 264,
+        "fused_add_10_kernel0": 4,
+        "fused_nn_conv2d_add_nn_relu_1_kernel0": 7460,
+        "fused_nn_conv2d_add_nn_relu_4_kernel0": 5636,
+        "fused_nn_conv2d_add_kernel0": 1300,
+        "fused_nn_conv2d_add_add_nn_relu_2_kernel0": 2820,
+        "fused_nn_conv2d_add_2_kernel0": 5636,
+        "fused_nn_conv2d_3_kernel0": 7460,
+        "fused_nn_conv2d_add_nn_relu_6_kernel0": 2820,
+        "fused_nn_conv2d_add_3_kernel0": 2820,
+        "fused_nn_conv2d_add_nn_relu_kernel0": 1300,
+        "fused_nn_conv2d_2_kernel0": 13284,
+        "fused_nn_conv2d_add_multiply_add_nn_relu_kernel0": 1300,
+        "fused_nn_global_avg_pool2d_kernel0": 4,
+        "fused_nn_batch_flatten_kernel0": 4,
+        "fused_nn_conv2d_kernel0": 2820,
+        "fused_nn_conv2d_add_nn_relu_5_kernel0": 24932,
+        "fused_add_nn_relu_3_kernel0": 4,
+        "fused_nn_conv2d_add_nn_relu_3_kernel0": 13284
+    }
+}
